@@ -154,6 +154,6 @@ These are the creators, or scavengers, who own or curate the provided files.
 </div>
 <img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
 
-**If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback.** <br>
-**And if it helps you out, a ⭐ on the repo helps others find it too.**
+### If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback. <br>
+### And if it helps you out, a ⭐ on the repo helps others find it too.
 ---
