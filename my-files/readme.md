@@ -10,3 +10,5 @@ Some files may not work on your Flipper.
 - Sub GHz. (some)
 - Games
 - Other (some)
+>[!NOTE]
+>Some files have been intentionally left out.
