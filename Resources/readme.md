@@ -4,3 +4,5 @@
 
 ## What's inside?
 Information on how this repo was made, links to resources like images, fonts, repo settings and config, and more! This section is made to show you guys how this repo was built and organized. This may inspire you to make your own!
+
+**This is being actively worked on, so stay tuned!**
