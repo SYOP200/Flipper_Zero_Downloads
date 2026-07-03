@@ -6,3 +6,4 @@ I have provided files, but what about physical hardware? Now there is! Awesome c
 - Links to hardware (trusted websites, dealers, and distributors)
 - Hardware (Hats, Pico boards and more)
 >[!IMPORTANT]
+> I do not own or curate the hardware provided. They belong to their respective creators, listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
