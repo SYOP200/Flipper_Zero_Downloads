@@ -123,12 +123,12 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
 ## Notes
 This repo is constantly being worked on. <br> 
 If you have issues or need assistance, please communicate in our discussions and report issues and bugs.<br> 
-You are the ones who keep this community going, thank you!
+You are the ones who keep this community going. Thank you!
  
 ## Credits
 These are the creators, or scavengers, who own or curate the provided files.
 
-**These are some other resources I used and are very helpful**
+**These are some other resources I used, and they are very helpful**
 [Resources](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Resources)
 
 |Author| Files | Author| Files|
@@ -149,11 +149,12 @@ These are the creators, or scavengers, who own or curate the provided files.
 |- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)|NFC files|
 ### Contributors
 - Files gathered by @SYOP200 <br>
-<div>
-   
-</div>
-<img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
-
+<a href="https://github.com/SYOP200">
+                <img src="https://avatars.githubusercontent.com/SYOP200?v=3?s=100" width="100px;" alt="SYOP200" />
+                <br />
+                <sub><b>SYOP200</b>
+            </a>
+            
 ### If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback. <br>
 ### And if it helps you out, a ⭐ on the repo helps others find it too.
 ---
