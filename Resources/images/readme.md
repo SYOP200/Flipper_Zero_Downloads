@@ -3,4 +3,3 @@
 ## Includes:
 - Banners (Made in Pixilart.com)
 - Repo images
-- Profile images
