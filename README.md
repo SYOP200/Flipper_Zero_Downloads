@@ -18,7 +18,8 @@
 I’ve been working with the Flipper Zero for a while and noticed that useful files, scripts, and plugins are scattered all over the place. So I put together this curated GitHub repo that collects commonly used Flipper Zero assets in one spot.
 
 >[!IMPORTANT]
-> I do not own these files. They belong to their respective creators, mostly listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits).
+> I do not own these files. They belong to their respective creators, mostly listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
+> Files are up to date as of 2026.
 
 
 <h3>
