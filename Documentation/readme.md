@@ -29,5 +29,7 @@ Each document explains:
 - where to place them on the SD card  
 - warnings where needed
 
+See more info in [Resources](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Resources)
+
 If something is unclear — open an Issue or PR. 👍
 

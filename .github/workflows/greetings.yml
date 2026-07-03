@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Hey! We noticed that you are new here. I am excited that you wanted to help by creating an issue. Thanks for your support and feedback!"
+        pr-message: "Hey! We noticed that you are new here. I am excited that you wanted to add your own files. I will review your files and, in the meantime, make sure your PR follows the Contributing Guidelines. Thank you!"

@@ -370,17 +370,17 @@ Place your files in the `3d-printing` folder using this structure:
 
 ```
 3d-printing/
-├── cases/
-│   └── your-design-name/
-│       ├── README.md
-│       ├── front.stl
-│       ├── back.stl
-│       └── source.step
-├── accessories/
-│   └── your-design-name/
-│       ├── README.md
-│       ├── mount.stl
-│       └── source.f3d
+- cases/
+│   - your-design-name/
+│       - README.md
+│       - front.stl
+│       - back.stl
+│       - source.step
+- accessories/
+│   - your-design-name/
+│       - README.md
+│       - mount.stl
+│       - source.f3d
 ```
 
 ### Design guidelines

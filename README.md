@@ -1,6 +1,10 @@
 <h3>
-<img width="1024" height="246" alt="pixil-frame-0-4" src="https://github.com/user-attachments/assets/0b4770bc-bd89-433e-9c79-e38b815bfbeb" />
+<img width="1024" height="246" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/8ab5c0b7-5e70-4eb0-af15-bbbd515b5b85" />
+
+
+<div align="center">
   
+  ![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-Compatible-orange?style=flat-square)
   [![License](https://img.shields.io/badge/License-GPL-00D9FF?style=flat-square)](LICENSE)
 ![GitHub stars](https://img.shields.io/github/stars/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/SYOP200/Flipper-Zero-Downloads?style=flat-square)
@@ -8,21 +12,21 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/SYOP200/Flipper-Zero-Downloads?style=flat-square)
 
-
-
-
+</div>
 
 ## FLIPPER ZERO DOWNLOADS
 I’ve been working with the Flipper Zero for a while and noticed that useful files, scripts, and plugins are scattered all over the place. So I put together this curated GitHub repo that collects commonly used Flipper Zero assets in one spot.
 
 >[!IMPORTANT]
-> I do not own these files. They belong to their respective creators, mostly listed in the credits.
+> I do not own these files. They belong to their respective creators, mostly listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
+> Files are up to date as of 2026.
 
 
 <h3>
 
    
 ## Downloads
+
 |Download|Description
 |-|-|
 |[Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)|Firmware files for Flipper Zero and Wifi devboard.|
@@ -41,12 +45,14 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[3D Prints](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/3d%20print%20files)|3D Print files for your flipper zero.|
 |[Games](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Games)| A collection of all of our favorite games|
 
-  
-[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
-
 >[!TIP]
 > These links will take you to other important resources, too.
 
+<div align="center">
+  
+[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
+
+</div>
 
 ---
 
@@ -118,10 +124,13 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
 ## Notes
 This repo is constantly being worked on. <br> 
 If you have issues or need assistance, please communicate in our discussions and report issues and bugs.<br> 
-You are the ones who keep this community going, thank you!
+You are the ones who keep this community going. Thank you!
  
 ## Credits
 These are the creators, or scavengers, who own or curate the provided files.
+
+**These are some other resources I used, and they are very helpful**
+[Resources](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Resources)
 
 |Author| Files | Author| Files|
 |-|-|-|-|
@@ -141,11 +150,12 @@ These are the creators, or scavengers, who own or curate the provided files.
 |- [Flipper Zero NFC Trolls](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls/tree/main)|NFC files|
 ### Contributors
 - Files gathered by @SYOP200 <br>
-<div>
-   
-</div>
-<img width="105" height="78" alt="page_downloads_graphics_logo_orange" src="https://github.com/user-attachments/assets/b75fd170-39f9-4d21-a1ed-f93c4edd21e0" />
-
-**If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback.** <br>
-**And if it helps you out, a ⭐ on the repo helps others find it too.**
+<a href="https://github.com/SYOP200">
+                <img src="https://avatars.githubusercontent.com/SYOP200?v=3?s=100" width="100px;" alt="SYOP200" />
+                <br />
+                <sub><b>SYOP200</b>
+            </a>
+            
+### If you have suggestions, files to contribute, or ideas for organizing this better, I’d love feedback. <br>
+### And if it helps you out, a ⭐ on the repo helps others find it too.
 ---
