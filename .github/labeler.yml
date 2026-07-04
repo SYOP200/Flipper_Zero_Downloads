@@ -1,0 +1,13 @@
+# Label PRs based on file path changes
+documentation:
+  - changed-files:
+      - any-glob-match-pattern: 'docs/**'
+
+bug:
+  - changed-files:
+      - any-glob-match-pattern: '**/*.md'
+      - any-glob-match-pattern: 'CHANGELOG.md'
+
+enhancement:
+  - changed-files:
+      - any-glob-match-pattern: 'src/**'
