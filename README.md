@@ -44,6 +44,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
 |[3D Prints](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/3d%20print%20files)|3D Print files for your flipper zero.|
 |[Games](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Games)| A collection of all of our favorite games|
+|[Hardware](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Hardware)| Hardware links and resources|
 
 >[!TIP]
 > These links will take you to other important resources, too.
@@ -70,7 +71,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 > Check local laws before using these files. <br>
 
 ## About
-This repository was created so that you don't have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or if you just want to get more files. Either way, you are welcome here!
+This repository was created so that you don't have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or if you just want to get more files. Either way, you are welcome here! If you are interested in what my personal files are, check out [my-files](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/my-files)
 ## Installation
 
 ### Method 1: Copy Files to SD Card
