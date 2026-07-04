@@ -16,6 +16,8 @@
 > [Sub-GHz](subghz.md) |
 > [UniRF](unirf.md) |
 > [Playlists](playlists.md)
+> [3D Prints](3D-Printing.md)
+> [Hardware](hardware.md)
 
 ---
 Check out some documentation for developers!
