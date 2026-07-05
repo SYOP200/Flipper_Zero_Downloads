@@ -40,12 +40,14 @@ Updated Jul. 5 2026
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
 |[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
 |[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets, and graphics for your Flipper Zero.|
-|[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/picopass)| Picopass files for your Flipper Zero.|
+|[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/picopass)| Picopass files for your Flipper Zero.|
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
-|[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/unirf)| UniRF files for Flipper Zero|
+|[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/unirf)| UniRF files for Flipper Zero|
 |[3D Prints](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/3d%20print%20files)|3D Print files for your flipper zero.|
 |[Games](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Games)| A collection of all of our favorite games|
 |[Hardware](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Hardware)| Hardware links and resources|
+
+[Resources](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Resources)
 
 >[!TIP]
 > These links will take you to other important resources, too.
