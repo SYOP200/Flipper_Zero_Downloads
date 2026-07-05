@@ -32,8 +32,8 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 |[Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)|Firmware files for Flipper Zero and Wifi devboard.|
 |[GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)|GPIO files for your Flipper.
 |[Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)|Applications and plugins for Flipper Zero.
-|[Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20ghz.%20files)|Sub Ghz. scripts and remotes for Flipper Zero.|Added more files|
-|[Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infared)|Infrared files and remotes for Flipper Zero.|Added more files|
+|[Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20GHz.)|Sub Ghz. scripts and remotes for Flipper Zero.|Added more files|
+|[Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infrared)|Infrared files and remotes for Flipper Zero.|Added more files|
 |[NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)|Pre-made NFC card files and downloads for Flipper Zero.|Fixed readme image format|
 |[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|Added more payloads|
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
