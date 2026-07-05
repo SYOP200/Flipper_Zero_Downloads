@@ -28,8 +28,8 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 ## Downloads
 Updated Jul. 5 2026
 
-|Download|Description|.zip|
-|-|-|-|
+|Download|Description|
+|-|-|
 |[Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)|Firmware files for Flipper Zero and Wifi devboard.|
 |[GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)|GPIO files for your Flipper.|
 |[Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)|Applications and plugins for Flipper Zero.|
