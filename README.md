@@ -26,16 +26,17 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 
    
 ## Downloads
+Updated Jul. 5 2026
 
-|Download|Description
-|-|-|
+|Download|Description|.zip|
+|-|-|-|
 |[Firmware](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Firmware)|Firmware files for Flipper Zero and Wifi devboard.|
-|[GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)|GPIO files for your Flipper.
-|[Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)|Applications and plugins for Flipper Zero.
-|[Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20GHz.)|Sub Ghz. scripts and remotes for Flipper Zero.|Added more files|
-|[Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infrared)|Infrared files and remotes for Flipper Zero.|Added more files|
-|[NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)|Pre-made NFC card files and downloads for Flipper Zero.|Fixed readme image format|
-|[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|Added more payloads|
+|[GPIO](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/GPIO)|GPIO files for your Flipper.|
+|[Apps](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Apps)|Applications and plugins for Flipper Zero.|
+|[Sub Ghz.](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Sub%20GHz.)|Sub Ghz. scripts and remotes for Flipper Zero.|
+|[Infrared](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Infrared)|Infrared files and remotes for Flipper Zero.|
+|[NFC](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/NFC)|Pre-made NFC card files and downloads for Flipper Zero.|
+|[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
 |[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
 |[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets, and graphics for your Flipper Zero.|
@@ -51,7 +52,7 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 
 <div align="center">
   
-[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Documentation)
+[More useful downloads](https://flipper.net/pages/downloads) • [Documentation](https://docs.flipper.net) • [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware) • [Repository Documentation](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Documentation)
 
 </div>
 
@@ -136,12 +137,11 @@ These are the creators, or scavengers, who own or curate the provided files.
 |Author| Files | Author| Files|
 |-|-|-|-|
 |- Momentum Firmware|Firmware download|- Flipper-zero-files| GPIO files|
-|- ~Firmware~|~Firmware download~|- [Flipper Docs](https://docs.flipper.net)|Images and info|
 |- Xtreme Firmware|Firmware download|- [FlipperZero-Firmware-UniRFRemix](https://github.com/ESurge/flipperzero-firmware-unirfremix)|UniRF files and information|   
 |- [Flipper IRDB](https://github.com/Lucaslhm/Flipper-IRDB)|IR files|- JKCTech|Scripts|
 |- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)|BadUSB payloads|- @SYOP200| IR remote files|
 |- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|- [flipper-zero-files](https://github.com/ADolbyB/flipper-zero-files)|Games|
-|- @UberGuidoZ|Various files|
+|- @UberGuidoZ|Various files|- [Flipper Docs](https://docs.flipper.net)|Images and info|
 |- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|
 |- [Flipper Docs](https://docs.flipper.net)|Information|
 |- [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)|Application file|
