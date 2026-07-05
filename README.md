@@ -39,7 +39,7 @@ Updated Jul. 5 2026
 |[BadUSB](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/BadUSB)|BadUSB payloads and scripts for Flipper Zero.|
 |[Scripts](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/Scripts)|Pre-made scripts and payloads for Flipper Zero.|
 |[RFID](https://github.com/SYOP200/Flipper_Zero_Downloads/tree/main/RFID)|Pre-made RFID tags and files for Flipper Zero.|
-|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/Graphics)| Pre-made animations, icons, assets, and graphics for your Flipper Zero.|
+|[Graphics](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/Graphics)| Pre-made animations, icons, assets, and graphics for your Flipper Zero.|
 |[Picopass](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/picopass)| Picopass files for your Flipper Zero.|
 |[SubPlaylist](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/dev/subplaylist)| Pre-made Sub Ghz. playlists for your Flipper Zero.|
 |[UniRF](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/unirf)| UniRF files for Flipper Zero|
