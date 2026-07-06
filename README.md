@@ -74,7 +74,9 @@ Updated Jul. 5 2026
 > Check local laws before using these files. <br>
 
 ## About
-This repository was created so that you don't have to find Flipper Zero files yourself. This repository has all of the resources for you if you are new to Flipper Zero or if you just want to get more files. Either way, you are welcome here! If you are interested in what my personal files are, check out [my-files](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/my-files)
+This repository was created so that you don't have to find Flipper Zero files yourself. This repository has all the resources you need if you are new to Flipper Zero or just want more files. Either way, you are welcome here! If you are interested in what my personal files are, check out [my-files](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main/my-files) <br>
+
+More files can be found [here](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/extra)
 ## Installation
 
 ### Method 1: Copy Files to SD Card
