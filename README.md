@@ -146,7 +146,7 @@ These are the creators, or scavengers, who own or curate the provided files.
 |- [BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)|BadUSB payloads|- @SYOP200| IR remote files|
 |- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|- [flipper-zero-files](https://github.com/ADolbyB/flipper-zero-files)|Games|
 |- @UberGuidoZ|Various files|- [Flipper Docs](https://docs.flipper.net)|Images and info|
-|- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|
+|- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|- [lab401.com](https://lab401.com)|Hardware resources|
 |- [Flipper Docs](https://docs.flipper.net)|Information|
 |- [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)|Application file|
 |- [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)|Various files|
