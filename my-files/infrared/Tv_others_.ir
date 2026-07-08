@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Tcl_tv_
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 17 E8 00 00
