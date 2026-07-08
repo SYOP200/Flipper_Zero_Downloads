@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Finn_fan3.sub
+DOWN: /ext/subghz/Finn_fan_off.sub
+LEFT: /ext/subghz/Finn_fan2.sub
+RIGHT: /ext/subghz/Finn_fan1.sub
+OK: /ext/subghz/Outside_fan_on.sub
+ULABEL: 
+DLABEL: 
+LLABEL: 
+RLABEL: 
+OKLABEL: 

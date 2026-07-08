@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Raw_signal_.sub
+DOWN: /ext/subghz/RAW-20231016-095749.sub
+LEFT: /ext/subghz/Garage_door1.sub
+RIGHT: /ext/subghz/Garagedoor2.sub
+OK: /ext/subghz/Outside_fan_on.sub
+ULABEL: Hack
+DLABEL: Scan1
+LLABEL: 
+RLABEL: 
+OKLABEL: Outsidefan_on

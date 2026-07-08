@@ -1,0 +1,4 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+OK: /ext/subghz/Finn_light.sub
+OKLABEL: 
