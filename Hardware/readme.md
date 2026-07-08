@@ -7,3 +7,5 @@ I have provided files, but what about physical hardware? Now there is! Awesome c
 - Hardware (Hats, Pico boards and more)
 >[!IMPORTANT]
 > I do not own or curate the hardware provided. They belong to their respective creators, listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
+
+Want to see more hardware? I sourced most from [here](https://lab401.com/collections/flipper-zero?srsltid=AfmBOoolYIx2P8Km9rEdozGWbx0jG3rBNeS3XcoIuDyllXyq1guxLziC)
