@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Red_led_workshop
+type: parsed
+protocol: NECext
+address: 00 EF 00 00
+command: 04 FB 00 00

@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Tesla/315MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+DOWN: /ext/subghz/Tesla/315MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+LEFT: /ext/subghz/Tesla/315MHz_AM650_Tesla-Long.sub
+RIGHT: /ext/subghz/Tesla/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+OK: /ext/subghz/Tesla/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+ULABEL: Teslacharge_us_315mgz
+DLABEL: Teslacharge_open_us
+LLABEL: Tesla_long_charge315mgz
+RLABEL: Teslacharge_433_92mgz
+OKLABEL: Teslacharge_433_92mhz_us

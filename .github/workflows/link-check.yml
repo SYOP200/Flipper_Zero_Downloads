@@ -1,0 +1,36 @@
+name: Link Check
+
+on:
+  push:
+    branches:
+      - main
+      - "UPDATE-*"
+  pull_request:
+  schedule:
+    # Runs every Monday at 09:00 UTC to catch links that rotted after merge
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Check markdown files and the repo root; add more globs as needed
+          args: >
+            --verbose
+            --no-progress
+            --exclude-mail
+            './**/*.md'
+          fail: true
+          jobSummary: true
+
+      - name: Fail job if broken links found
+        if: steps.lychee.outputs.exit_code != '0'
+        run: exit 1
