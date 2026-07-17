@@ -21,9 +21,15 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 > I do not own these files. They belong to their respective creators, mostly listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
 > Files are up to date as of 2026.
 
+---
 
+>[!NOTE]
+> Hey you, yeah you! <br>
+> I need some helpers with this project to keep it maintained. If you are intrested, make a pull request. <br>
+> Or you can talk to me at hello@syop200.com
 <h3>
 
+---
    
 ## Downloads
 Updated Jul. 5 2026
