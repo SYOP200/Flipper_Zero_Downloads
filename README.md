@@ -24,9 +24,10 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 ---
 
 >[!NOTE]
-> Hey you, yeah you! <br>
-> I need some helpers with this project to keep it maintained. If you are intrested, make a pull request. <br>
+> Hey, you, yeah, you! <br>
+> I need some helpers with this project to keep it maintained. If you are interested, make a pull request. <br>
 > Or you can talk to me at hello@syop200.com
+
 <h3>
 
 ---
