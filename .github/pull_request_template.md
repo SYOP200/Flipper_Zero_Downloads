@@ -8,6 +8,10 @@ Explain this addition or fix and *why* it may be wanted.
 
 ## How Has This Been Tested?
 Describe the tests you ran to verify your changes. 
+- [ ] Tested on Flipper Zero
+- [ ] Tested on simulator
+- [ ] Other:
+
 - Provide instructions so reviewers can reproduce/verify the changes on their end.
 - List relevant details of your testing environment if applicable.
 
@@ -16,10 +20,16 @@ Describe the tests you ran to verify your changes.
 
 ## Checklist
 Please tick all the boxes that apply before submitting:
-- [ ] My code follows the code style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
+
+- [ ] I have performed a self-review of the code
+- [ ] I have updated the credits to include this author
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added/updated unit tests to verify my changes
 - [ ] All new and existing tests passed locally
 - [ ] This change requires a breaking change (If yes, please explain below)
+
+
+#### For reviewer (don't check these of)
+- [ ] Arranged properly
+- [ ] Passed review
+- [ ] Notes: (list below)
