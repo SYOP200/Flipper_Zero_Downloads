@@ -124,11 +124,11 @@ Directly copying the files to the Flipper's SD card is the fastest and safest me
 >If the file you downloaded did not work, please report it as a bug so we can fix the file or remove it.
 
 ## License 
-GNU General Public License 
+MIT License
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
- Everyone is permitted to copy and distribute verbatim copies <br>
- of this license document, but changing it is not allowed.
+ Everyone is permitted to copy, change and distribute verbatim copies <br>
+ of this license document.
 
 >[!NOTE]
 >This project is not affiliated with Flipper Devices <br>
