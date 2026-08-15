@@ -132,7 +132,7 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
 
 >[!NOTE]
 >This project is not affiliated with Flipper Devices <br>
->This was developed independently by @SYOP200
+>This is maintained independently by @SYOP200
 
 ## Notes
 This repo is constantly being worked on. <br> 
