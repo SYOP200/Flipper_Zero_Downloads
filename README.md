@@ -21,9 +21,16 @@ I’ve been working with the Flipper Zero for a while and noticed that useful fi
 > I do not own these files. They belong to their respective creators, mostly listed in the [credits](https://github.com/SYOP200/Flipper-Zero-Downloads/tree/main#credits). <br>
 > Files are up to date as of 2026.
 
+---
+
+>[!NOTE]
+> Hey, you, yeah, you! <br>
+> I need some helpers with this project to keep it maintained. If you are interested, make a pull request. <br>
+> Or you can talk to me at hello@syop200.com
 
 <h3>
 
+---
    
 ## Downloads
 Updated Jul. 5 2026
@@ -117,15 +124,15 @@ Directly copying the files to the Flipper's SD card is the fastest and safest me
 >If the file you downloaded did not work, please report it as a bug so we can fix the file or remove it.
 
 ## License 
-GNU General Public License 
+MIT License
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> <br>
- Everyone is permitted to copy and distribute verbatim copies <br>
- of this license document, but changing it is not allowed.
+ Everyone is permitted to copy, change and distribute verbatim copies <br>
+ of this license document.
 
 >[!NOTE]
 >This project is not affiliated with Flipper Devices <br>
->This was developed independently by @SYOP200
+>This is maintained independently by @SYOP200
 
 ## Notes
 This repo is constantly being worked on. <br> 
@@ -147,7 +154,7 @@ These are the creators, or scavengers, who own or curate the provided files.
 |- [Flipper-Raw-RFID](https://github.com/hnesk/flipper-raw-rfid/tree/main)|RFID files|- [flipper-zero-files](https://github.com/ADolbyB/flipper-zero-files)|Games|
 |- @UberGuidoZ|Various files|- [Flipper Docs](https://docs.flipper.net)|Images and info|
 |- [Flipper Zero Scripts](https://github.com/jkctech/Flipper-Zero-Scripts)|Scripts and payloads|- [lab401.com](https://lab401.com)|Hardware resources|
-|- [Flipper Docs](https://docs.flipper.net)|Information|- [vilros.com](https://vilros.com)|Hardwar resources|
+|- [Flipper Docs](https://docs.flipper.net)|Information|- [vilros.com](https://vilros.com)|Hardware resources|
 |- [Flipper Deauth](https://github.com/PINGEQUA/Flipper-Zero-5G-death)|Application file|
 |- [Awesome-Flipperzero](https://github.com/RogueMaster/awesome-flipperzero-withModules)|Various files|
 |- @I-Am-Jakoby|BadUSB payloads and scripts|
