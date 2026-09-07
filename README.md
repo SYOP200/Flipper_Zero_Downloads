@@ -3,3 +3,4 @@ This is an extended version with less documentation. All documentation and rules
 >[!Caution]
 Some of the software provided may not have undergone extensive testing. <br>
 > Use at your own risk.
+> Do NOT use these files in illegal ways. Check local laws before use.
